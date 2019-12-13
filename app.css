@@ -1,0 +1,22 @@
+
+#content{
+	text-align: center;
+	padding-top:25%;
+	text-shadow: 0px 3px 4px red, 0px 8px 13px orange,  0px 18px 13px yellow;  
+	
+}
+body{
+	background-image: url("http://www.hdnicewallpapers.com/Walls/Big/Love%20Heart/Energetic_Couple_Hug_4K_Wallpaper.jpg");
+	background-size: cover;
+	font-family: lato;
+	color: black;
+}
+h1{
+	font-weight: 400;
+	font-size: 5em;
+}
+hr{
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom:1px solid rgba(0,0,,0,0.2);
+}
